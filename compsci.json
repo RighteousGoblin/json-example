@@ -1,0 +1,29 @@
+{
+    "School": "Acadia University",
+    "Faculty": 
+        [
+            {
+            "name": "Darcy Benoit",
+            "email": "darcy.benoit@acadiau.ca",
+            "age": 482,
+            "courses_taught": ["COMP 2013", "COMP 1813"],
+            "office":
+                {
+                     "building": "Carnegie Hall",
+                     "room": "310"
+                }
+            },
+            {
+            "name": "Duane Currie",
+            "email": "duane.currie@acadiau.ca",
+            "age": 43,
+            "courses_taught": ["COMP 3713", "COMP 3753", "COMP 3703"],
+            "office":
+                {
+                     "building": "Vaughan Memorial Library",
+                     "room": "235"
+                }
+            }
+        ],
+    "Department": "---Jodrey School of Computer Science"
+}
